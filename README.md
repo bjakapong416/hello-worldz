@@ -1,1 +1,1 @@
-![CI/CD](https://github.com/bjakapong416/helloactions/actions/workflows/ci.yml/badge.svg)
+![CI/CD](https://github.com/bjakapong416/hello-worldz/actions/workflows/ci.yml/badge.svg)
